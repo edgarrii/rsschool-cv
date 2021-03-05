@@ -1,1 +1,1 @@
-# rsschool-cv
+https://edgarrii.io/rsschool-cv/cv
