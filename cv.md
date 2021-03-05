@@ -1,8 +1,8 @@
-**Curriculum vitae**
+# Curriculum vitae
 
-# Toomik Edgar
+## Toomik Edgar
 
-## Contacts:
+### Contacts:
 
 1. Mobile: +375(29)723-09-55
 
@@ -14,12 +14,12 @@
 
 5. [Vk.com:](https://vk.com/edtoomik)
 
-## About me
+### About me
 
 I'm in my second year at BSUIR. I have no work experience. Now my priority is to become a JS Frontend developer and get a job. At the moment I'm taking a course from RS School, at the same time I'm studying the language on my own with the help of foreign video tutorials. I am goal-oriented and quick to grasp on the fly. I took a responsible approach to choosing a programming language to study. Therefore, learning something new for me is not a problem - on the contrary, it promotes me to my cherished goal - to become a JS developer. As the saying goes: 
 > Find a job you enjoy doing, and you will never have to work a day in your life.
 
-## Skills
+### Skills
 
 * HTML
 * CSS
@@ -27,7 +27,7 @@ I'm in my second year at BSUIR. I have no work experience. Now my priority is to
 * Figma
 * C++
 
-## Code example
+### Code example
 
 A large number of simple tasks have been solved, such as the one below.
 ```
@@ -44,6 +44,6 @@ function squareDigits(num){
 }
 ```
 
-## English lvl
+### English lvl
 
 I have never had any problems with English, I speak fluently on various topics. I passed various tests for the level of English, on the EPAM website showed the level of __A2__, on another site __B1__, in any case, I can speak and understand.
