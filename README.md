@@ -1,1 +1,1 @@
-https://edgarrii.io/rsschool-cv/cv/
+https://edgarrii.io/rsschool-cv/
